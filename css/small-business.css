@@ -1,0 +1,57 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 56px;
+  /* background-image: url("img/bg.gif"); */
+  background-image: url("../img/bg.gif");
+
+  /* Full height */
+  height: 150%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+.whitecolor {
+  color:#fff;
+}
+
+.footer {
+  padding: 15px !important;
+  margin-top: 25%;
+}
+.header-gradient {
+  
+  background-image: linear-gradient(to bottom right, #ff00cc, #333399)!important;
+}
+.btn-primary {
+  background-image: linear-gradient(to bottom right, #ff00cc, #333399)!important;
+  border: 1px solid #ff00cc!important;
+}
+
+.card {
+   border: 1px solid #000000!important;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+.bg-dark {
+  background: #000000!important;
+}
+.card-footer {
+  background-image: linear-gradient(to bottom right, #ff00cc, #333399)!important;
+}
+.card-footer p {
+  margin: 0!important;
+  color: #fff!important;
+  font-weight: 500;
+}
+.card-footer:hover {
+  cursor: pointer;
+}
